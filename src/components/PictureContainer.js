@@ -17,8 +17,6 @@ const ParagraphDiv = styled.div`
   }
 `;
 
-const StyledP = styled.p``;
-
 const LoadingDiv = styled.div`
   margin-top: 20%;
 `;
